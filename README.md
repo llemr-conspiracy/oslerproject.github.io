@@ -2,6 +2,8 @@
 ## run locally with:
     bundle exec jekyll serve --watch
 
+commit to gh-pages branch to have changes go live
+
 ### Built using:
 [Jekyll Static Site Generator](https://jekyllrb.com/)
 [TeXt Theme for Jekyll](https://github.com/kitian616/jekyll-TeXt-theme)
@@ -9,11 +11,6 @@
 
 
 ## Documentation
-
-### Start
-
-- [Quick Start](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-- [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2)
 
 ### Customization
 
