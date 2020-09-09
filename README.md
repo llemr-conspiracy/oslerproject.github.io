@@ -1,8 +1,12 @@
+# Live site found at (https://oslerproject.github.io/)
 ## run locally with:
     bundle exec jekyll serve --watch
-    Live site found at oslerproject.github.io
 
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+### Built using:
+[Jekyll Static Site Generator](https://jekyllrb.com/)
+[TeXt Theme for Jekyll](https://github.com/kitian616/jekyll-TeXt-theme)
+[Host on Github Pages](https://pages.github.com/)
+
 
 ## Documentation
 
